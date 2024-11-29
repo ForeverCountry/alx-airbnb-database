@@ -79,8 +79,6 @@ Below is the visual representation of the database structure. The diagram was cr
 
 ![ERD Diagram](erd-diagram.drawio.png)
 
-*Replace "path-to-erd-image.png" with the actual path to the uploaded image in the repository.*
-
 ## Design Considerations
 - **Primary Keys**: Each entity has a unique identifier (UUID) as the primary key.
 - **Foreign Keys**: Relationships between entities are maintained through foreign keys, enforcing referential integrity.
